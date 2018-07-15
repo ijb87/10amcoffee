@@ -111,14 +111,14 @@
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <img src="Game.jpg" alt="Screen" height="100" width="100"/>
+              <img src="Game.jpg" alt="Headphones" height="100" width="100"/>
               <h3 class="mb-3">Game Dev.</h3>
               <p class="text-muted mb-0">2D/3D games from PC to PlayStation.</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <img src="Heart.jpg" alt="Screen" height="100" width="100"/>
+              <img src="Heart.jpg" alt="Heart" height="100" width="100"/>
               <h3 class="mb-3">Made with Love</h3>
               <p class="text-muted mb-0">...with a touch of passion.</p>
             </div>
